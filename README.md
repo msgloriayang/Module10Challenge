@@ -6,16 +6,16 @@ This is an application written in JavaScript using Node.js and Inquirer 8.2.4.
 Insert video URL here
 ## Table of Contents
 * [Features](#features)
-* [Languages & Dependencies](#languagesanddependencies)
-* [How to Use This Application](#HowtoUseThisApplication)
+* [Dependencies](#dependencies)
+* [Applications](#applications)
 * [Contributors](#contributors)
 * [Testing](#testing)
 * [Questions](#questions)
 ## Features
 The main feature of this application is creating an HTML file while only utilizing the command lines in JavaScript and Node.js.
-## Languages & Dependencies
+## Dependencies
 Inquirer 8.2.4
-## How to Use This Application
+## Applications
 Markdown, Javascript, Node, and JSON
 ## Contributors
 N/A
