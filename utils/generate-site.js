@@ -1,5 +1,5 @@
 const fs = require('fs');
-const pageTemplate = require('./src/page-template')
+const pageTemplate = require('../src/page-template.js')
 
 const writeFile = (data) => {
   fs.writeFile('./dist/index.html', pageTemplate(data), err => {

@@ -1,6 +1,6 @@
-const Manager = require("./lib/manager");
-const Engineer = require("./lib/engineer");
-const Intern = require("./lib/intern");
+const Manager = require("../lib/manager");
+const Engineer = require("../lib/engineer");
+const Intern = require("../lib/intern");
 
 const pageTemplate = function(employeeBucket) {
   const employeeHtmlArray = [];

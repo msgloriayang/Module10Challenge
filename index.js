@@ -1,12 +1,12 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
-
+const { writeFile } = require('./utils/generate-site.js');
 const manager = require('./lib/manager');
 const intern = require('./lib/intern');
 const engineer = require('./lib/engineer');
 
-employeeBucket = [];
+var employeeBucket = [];
 
 // TODO: Create an array of questions for user input
 const managerQuestions = [
