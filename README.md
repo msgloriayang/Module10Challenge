@@ -11,15 +11,15 @@ Insert video URL here
 * [Contributors](#contributors)
 * [Testing](#testing)
 * [Questions](#questions)
-# Features
+## Features
 The main feature of this application is creating an HTML file while only utilizing the command lines in JavaScript and Node.js.
-# Languages & Dependencies
+## Languages & Dependencies
 Inquirer 8.2.4
-# How to Use This Application
+## How to Use This Application
 Markdown, Javascript, Node, and JSON
-# Contributors
+## Contributors
 N/A
-# Testing
+## Testing
 NPM tests
-# Questions
+## Questions
 Please send your questions [here](mailto:lookmeup@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/msgloriayang](https://github.com/msgloriayang).
