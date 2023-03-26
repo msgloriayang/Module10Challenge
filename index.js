@@ -191,7 +191,7 @@ const managerQuestions = [
     const addManager = async() => {
       const result = await inquirer.prompt(managerQuestions)
       
-      const managerOccurance = new Manager(
+      const managerOccurance = new manager(
         result.name,
         result.id,
         result.email,
@@ -225,7 +225,7 @@ const managerQuestions = [
     const addEngineer = async() => {
       const result = await inquirer.prompt(engineerQuestions)
     
-      const engineerOccurance = new Engineer(
+      const engineerOccurance = new engineer(
         result.name,
         result.id,
         result.email,
@@ -239,7 +239,7 @@ const managerQuestions = [
     const addIntern = async() => {
       const result = await inquirer.prompt(internQuestions)
     
-      const internOccurance = new Intern(
+      const internOccurance = new intern(
         result.name,
         result.id,
         result.email,
