@@ -1,5 +1,5 @@
-# Team Profile Generator
-Module 10 Challenge: Object-Oriented Programming
+# Module 10 Challenge
+Object-Oriented Programming Challenge: Team Profile Generator
 ## Description
 This is an application command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person in JavaScript using Node.js and Inquirer 8.2.4. 
 ## Walkthrough Video
