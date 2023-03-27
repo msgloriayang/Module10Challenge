@@ -1,7 +1,7 @@
 # Team Profile Generator
 Module 10 Challenge: Object-Oriented Programming
 ## Description
-This is an application written in JavaScript using Node.js and Inquirer 8.2.4.
+This is an application command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person in JavaScript using Node.js and Inquirer 8.2.4. 
 ## Walkthrough Video
 https://user-images.githubusercontent.com/118951775/227813879-4441f9a9-cec9-47f5-9e88-900d6d85b708.mp4
 ## Video URL
@@ -16,7 +16,7 @@ https://watch.screencastify.com/v/Le42zBQsZcNZ51Ri9kyA
 ## Features
 The main feature of this application is creating an HTML file while only utilizing the command lines in JavaScript and Node.js.
 ## Dependencies
-Inquirer 8.2.4
+Inquirer 8.2.4 and Jest
 ## Applications
 Markdown, Javascript, Node, and JSON
 ## Contributors
